@@ -6,7 +6,7 @@ To get a quick overview of ParaView and its GUI, we recommend that you skim thro
 
 For each part of the assignment, you should create a separate ParaView state file for your solution. In ParaView, you save the current state using File->Save state, and load a previous state using File->Load state. To avoid mixing different states, you should also do Edit->Reset session before loading a state.
 
-Requirements to pass: Before the deadline, present Part 1 for one of the lab assistants and hand in working solutions for Parts 2 and 3. See the main course page for more details.
+Requirements to pass: Before the deadline, hand in working solutions for Parts 1-3. See the main course page for more details.
 
  
 ## Obtaining the source code and datasets
